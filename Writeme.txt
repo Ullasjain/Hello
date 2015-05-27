@@ -1,6 +1,10 @@
 #iam creating a new file named writeme.txt
 
 
-#aDd a new line
+
 #ADDING A NEW LINE
 #ANOTHER ONE
+
+#YO NEW LINE MAN
+
+#LAST LINE
